@@ -1724,7 +1724,6 @@ h1, h2, h3, h4, h5,
 
 
 /* About page section */
-
 .about-section .about-title {
   font-size: 28px;
   font-weight: bold;
@@ -1746,6 +1745,8 @@ h1, h2, h3, h4, h5,
   margin-bottom: 2rem;
 
 }
+
+/* Services */
 
 .services-1-wrap .header-text h3 {
   padding: 1rem;
@@ -1784,4 +1785,99 @@ h1, h2, h3, h4, h5,
   margin: .8rem;
   color: var(--bs-dark);
 
+}
+
+.container .header h2 {
+  text-align: center;
+  font-size: 34px;
+  color: var(--bs-dark);
+  font-weight: bold;
+  margin-bottom: 3rem;
+  margin-top: 2rem;
+}
+.container .opportunities-card {
+  height:100%;
+  background-color: #fff;
+  color: #000;
+  /* margin-top: 1rem; */
+  margin-bottom: 2rem;
+}
+
+.container .opportunities-card img {
+  margin: 1rem;
+}
+
+.container .opportunities-card h5 {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 1rem;
+} 
+.container .opportunities-card p {
+  font-family: "Marcellus" serif;
+  font-size: 16px;
+  text-align: justify;
+}
+.container .card:hover{
+  background-color:var(--bs-success);
+  color:#fff;
+}
+
+
+/* Become a factor */
+.become-a-factor {
+  margin-top: 4rem;
+}
+.become-a-factor .fw-bold {
+  color: var(--bs-success);
+  font-size: 34px;
+  font-weight: bold;
+
+}
+.become-a-factor p {
+  text-align: justify;
+  color: #000;
+}
+
+.become-a-factor-apply h6 {
+  color: var(--bs-success);
+  font-weight: bold;
+}
+
+/* why choose us */
+
+/* .why-choose-us-icon {
+  border-radius: 50%;
+    margin: 4px auto;
+  padding: 2rem;
+}
+.why-choose-us-icon i {
+  font-size: 50px;
+
+} */
+
+.why-choose-us-icon h4 {
+  font-size: 28px;
+  font-weight: bold;
+
+}
+
+.why-choose-us-icon p {
+  font-size: 16px;
+  color: #fff;
+}
+
+
+/* About us pages */
+
+.about-page h2{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #000;
+}
+
+.about-page p {
+  text-align: justify;
+  color: var(--bs-dark);
+  font-size: 14px;
+  
 }
