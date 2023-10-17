@@ -14,13 +14,13 @@ const Footer = () => `
               <p>
                 Pauliset & Son's Global Ltd., take pride in being an outstanding agro company specialize in the cultivation, production, buying, and selling of high-quality cocoa bean and palm oil products.
               </p>
-              <p><a href="/views/about.html">Learn More</a></p>
+              <p><a href="views/about.html">Learn More</a></p>
             </div>
             <div class="col-lg-3">
               <h3 class="footer-heading"><span>Our Company</span></h3>
               <ul class="list-unstyled">
-                <li><a href="/views/about.html">About</a></li>
-                <li><a href="/views/services.html">Services</a></li>
+                <li><a href="views/about.html">About</a></li>
+                <li><a href="views/services.html">Services</a></li>
                 <li><a href="">Our Team</a></li>
                 <li><a href="#">Careers</a></li>
                 <li><a href="#">Projects</a></li>
