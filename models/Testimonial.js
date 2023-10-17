@@ -1,8 +1,6 @@
 const Testimonial = () => `
 
-
-
-      <div class="site-section testimonial-wrap">
+     <div class="site-section testimonial-wrap">
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-12 mb-5 text-center">
@@ -12,11 +10,9 @@ const Testimonial = () => `
           </div>
 
           <div class="row">
-
-           
             <div class="col-md-6 mb-4 mb-md-0">
               <div class="testimonial">
-                <img src="/public/images/person_3.jpg" alt="" />
+                <img src="images/person_3.jpg" alt="" />
                 <blockquote>
                   <p>
                     &ldquo;Working and doing business Pauliset Agro Company was the best decision i have ever made as it turns with huge profits&rdquo;
@@ -28,7 +24,7 @@ const Testimonial = () => `
             
             <div class="col-md-6 mb-4 mb-md-0">
               <div class="testimonial">
-                <img src="/public/images/person_4.jpg" alt="" />
+                <img src="images/person_4.jpg" alt="" />
                 <blockquote>
                   <p>
                     &ldquo;Working and doing business Pauliset Agro Company was the best decision i have ever made as it turns with huge profits&rdquo;
@@ -39,6 +35,7 @@ const Testimonial = () => `
             </div>
           </div>
         </div>
+      </div>
       </div>
 `
 export default Testimonial;

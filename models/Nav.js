@@ -17,7 +17,7 @@ const Nav =  () =>`
             <div class="col-6 col-lg-3">
               <a href="index.html" class="logo">
                 <img
-                  src="/public/images/utilties/logo_pauliset.png"
+                  src="images/utilties/logo_pauliset.png"
                   alt="Image"
                   class="img-fluid"
                 />

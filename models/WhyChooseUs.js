@@ -6,7 +6,7 @@ const WhyChooseUs = () => `
             <div class="row">
               <div class="col-lg-6 mb-4 mb-lg-0">
                 <img
-                  src="/public/images/products/cocoa-farm-1.jpg"
+                  src="images/products/cocoa-farm-1.jpg"
                   alt="Image "
                   class="img-fluid img-overlap"
                 />
@@ -72,121 +72,6 @@ const WhyChooseUs = () => `
         </div>
       </div>
       <!-- END block-2 -->
-
-      <div class="site-section">
-        <div class="container">
-          <div class="row justify-content-between align-items-center">
-            <div class="col-lg-6 order-lg-2 mb-4 mb-lg-0">
-              <a
-                data-fancybox
-                href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
-                class="video-1">
-                <span class="play"><span class="icon-play"></span></span>
-                <img src="/public/images/products/cocoa-bean.jpg" alt="Image" class="img-fluid" />
-              </a>
-            </div>
-            <div class="col-lg-5 order-lg-1">
-              <h2 class="text-primary mb-4">Plants Make Life Better</h2>
-              <p class="mb-4">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-                necessitatibus placeat, atque qui voluptatem velit explicabo
-                vitae repellendus architecto provident nisi ullam minus
-                asperiores commodi! Tenetur, repellat aliquam nihil illo.
-              </p>
-              <ul class="list-unstyled ul-check primary">
-                <li>Lorem ipsum dolor sit amet</li>
-                <li>Velit explicabo vitae repellendu</li>
-                <li>Repellat aliquam nihil illo</li>
-              </ul>
-              <p>
-                <a href="contact.html" class="btn btn-primary">Get in touch</a>
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="site-section block-3">
-        <div class="container">
-          <div class="mb-5">
-            <h3 class="section-subtitle text-white opacity-50">What we do</h3>
-            <h2 class="section-title mb-4">
-              Explore Our <strong>Farm</strong>
-            </h2>
-          </div>
-
-          <div class="projects-carousel-wrap">
-            <div class="owl-carousel owl-slide-3">
-              <div class="project-item">
-                <div class="project-item-contents">
-                  <a href="#">
-                    <span class="project-item-category">We do</span>
-                    <h2 class="project-item-title">Planting</h2>
-                  </a>
-                </div>
-                <img src="/public/images/products/cocoa-3.jpeg" alt="Image" class="img-fluid" />
-              </div>
-
-              <div class="project-item">
-                <div class="project-item-contents">
-                  <a href="#">
-                    <span class="project-item-category">We do</span>
-                    <h2 class="project-item-title">Mulching</h2>
-                  </a>
-                </div>
-                <img src="/public/images/products/cocoa-5.jpeg" alt="Image" class="img-fluid" />
-              </div>
-              <div class="project-item">
-                <div class="project-item-contents">
-                  <a href="#">
-                    <span class="project-item-category">We do</span>
-                    <h2 class="project-item-title">Watering</h2>
-                  </a>
-                </div>
-                <img src="/public/images/products/cocoa-farm-2.jpg" alt="Image" class="img-fluid" />
-              </div>
-              <div class="project-item">
-                <div class="project-item-contents">
-                  <a href="#">
-                    <span class="project-item-category">We do</span>
-                    <h2 class="project-item-title">Fertilizing</h2>
-                  </a>
-                </div>
-                <img src="/public/images/products/palm-farm-2.jpeg" alt="Image" class="img-fluid" />
-              </div>
-
-              <div class="project-item">
-                <div class="project-item-contents">
-                  <a href="#">
-                    <span class="project-item-category">We do</span>
-                    <h2 class="project-item-title">Harvesting</h2>
-                  </a>
-                </div>
-                <img src="/public/images/products/Fresh-oil-palm-fruits.jpg" alt="Image" class="img-fluid" />
-              </div>
-              <div class="project-item">
-                <div class="project-item-contents">
-                  <a href="#">
-                    <span class="project-item-category">We do</span>
-                    <h2 class="project-item-title">Mowing</h2>
-                  </a>
-                </div>
-                <img src="/public/images/products/palm-oil.jpeg" alt="Image" class="img-fluid" />
-              </div>
-              <div class="project-item">
-                <div class="project-item-contents">
-                  <a href="#">
-                    <span class="project-item-category">We do</span>
-                    <h2 class="project-item-title">Seeding Plants</h2>
-                  </a>
-                </div>
-                <img src="/public/images/products/palm-fruit-3.jpeg" alt="Image" class="img-fluid" />
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
 
 `
 export default WhyChooseUs;

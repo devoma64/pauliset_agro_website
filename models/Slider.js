@@ -1,7 +1,9 @@
 const Slider = () => `
       <div class="hero-slide owl-carousel site-blocks-cover">
-        <div class="intro-section" style="background-image: url('/public/images/banners/bg-slider-1.jpg')"
-        >
+        <div class="intro-section" 
+        style="background-image: url('images/banners/bg-slider-1.jpg');
+        background-size:cover; background-position:center; background-repeat:no-repeat;
+        ">
           <div class="container">
             <div class="row align-items-center slider-area">
               <div
@@ -22,13 +24,16 @@ const Slider = () => `
 
         <div
           class="intro-section"
-          style="background-image: url('/public/images/banners/okundi-staff-photo.png'); background-size: cover; background-position: center"
-        >
+          style="background-image: url('images/banners/okundi-staff-photo.png'); 
+          background-size: cover; 
+          background-position: center;
+          background-repeat: no-repeat;
+          ">
           <div class="container">
             <div class="row align-items-center slider-area">
               <div class="col-lg justify-content-center mx-auto text-center" data-aos="fade-up">
                 <span class="d-block"></span>
-                <h1 class="header-text slide-2">WHO WE ARE, AND WHAT WE DO!</h1>
+                <h1 class="header-text">WHO WE ARE, <br> AND WHAT WE DO!</h1>
                 <p class="description">
                   We are Industrial base Agricultural Company, we farm and trade
                   agricultural produce!. Our Meticulous production processes yeild top-grade cocoa
@@ -40,10 +45,11 @@ const Slider = () => `
           </div>
         </div>
 
-        <div
-          class="intro-section"
-          style="background-image: url('/images/banners/h2-slide1.jpg')"
-        >
+        <div class="intro-section"
+          style="background-image: url('images/banners/h2-slide1.jpg');
+          background-size:cover;
+          background-position:center;
+          background-repeat:no-repeat;">
           <div class="container">
             <div class="row align-items-center slider-area">
               <div class="col-lg justify-content-center mx-auto text-center" data-aos="fade-up">
@@ -53,15 +59,15 @@ const Slider = () => `
                   We engaged you on Farm Seminars and Education to enable you
                   become outstanding in the agriculture industry
                 </p>
-                <!-- <h1>Providing Fresh Produce Every Single Day</h1> -->
               </div>
             </div>
           </div>
         </div>
 
-        <div
-          class="intro-section"
-          style="background-image: url('public/images/hero_4.jpg')"
+        <div class="intro-section" style="background-image: url('images/hero_4.jpg');
+        background-size:cover;
+        background-position:center;
+        background-repeat:no-repeat;"
         >
           <div class="container">
             <div class="row align-items-center">
@@ -71,40 +77,6 @@ const Slider = () => `
               >
                 <span class="d-block"></span>
                 <h1>Farming as a Passion</h1>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div
-          class="intro-section"
-          style="background-image: url('public/images/hero_5.jpg')"
-        >
-          <div class="container">
-            <div class="row align-items-center">
-              <div
-                class="col-lg-7 justify-content-center mx-auto text-center"
-                data-aos="fade-up"
-              >
-                <span class="d-block"></span>
-                <h1>Good Food For All</h1>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div
-          class="intro-section"
-          style="background-image: url('public/images/hero_6.jpg')"
-        >
-          <div class="container">
-            <div class="row align-items-center">
-              <div
-                class="col-lg-7 justify-content-center mx-auto text-center"
-                data-aos="fade-up"
-              >
-                <span class="d-block"></span>
-                <h1>Plants Make Life Better</h1>
               </div>
             </div>
           </div>

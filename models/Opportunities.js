@@ -10,7 +10,7 @@ const Opportunities = () => `
         <div class="row">
           <div class="col-sm-4">
             <div class="card opportunities-card shadow p-3 mb-5 bg-body rounded">
-              <img src="/public/images/icons/farmer.svg" height="60" alt="" />
+              <img src="images/icons/farmer.svg" height="60" alt="" />
               <div class="card-body">
                 <h5>Connect with a community of farmers</h5>
                 <p>
@@ -25,7 +25,7 @@ const Opportunities = () => `
           <div class="col-sm-4">
             <div
               class="card opportunities-card shadow p-3 mb-5 bg-body rounded">
-              <img src="/public/images/icons/growth.svg" height="60" alt="" />
+              <img src="images/icons/growth.svg" height="60" alt="" />
               <div class="card-body">
                 <h5>Grow your farm/business</h5>
                 <p>
@@ -40,7 +40,7 @@ const Opportunities = () => `
 
           <div class="col-sm-4">
             <div class="card opportunities-card shadow p-3 mb-5 bg-body rounded">
-              <img src="/public/images/icons/planting.svg" height="60" alt="" />
+              <img src="images/icons/planting.svg" height="60" alt="" />
               <div class="card-body">
                 <h5>Social Impact Invesment</h5>
                 <p>

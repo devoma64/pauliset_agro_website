@@ -18,7 +18,7 @@ const Become_Factor = () => `
                 <div class="card text-white">
                   <img
                     class="card-img"
-                    src="/public/images/products/pauliset-cocoa-Tree.jpg"
+                    src="images/products/pauliset-cocoa-Tree.jpg"
                     alt="..."
                   />
                 </div>
@@ -37,7 +37,7 @@ const Become_Factor = () => `
                 <div class="card text-white">
                   <img
                     class="card-img"
-                    src="/public/images/products/pauliset-oil-palm-farming-1.jpg"
+                    src="images/products/pauliset-oil-palm-farming-1.jpg"
                     alt="..."
                   />
                 </div>

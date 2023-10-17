@@ -80,7 +80,7 @@ const About = () => `
               >
                 <span class="play"><span class="icon-play"></span></span>
                 <img
-                  src="/public/images/utilties/pauliset-logo.png"
+                  src="images/utilties/pauliset-logo.png"
                   alt="Image"
                   class="img-fluid"
                 />
@@ -115,7 +115,7 @@ const About = () => `
     <div class="container">
       <div class="factory-details">
         <div class="factory-details-img">
-          <img src="/public/images/favicons/agro-sec.jpg" class="img-fluid" alt="" />
+          <img src="images/favicons/agro-sec.jpg" class="img-fluid" alt="" />
         </div>
       </div>
     </div>
