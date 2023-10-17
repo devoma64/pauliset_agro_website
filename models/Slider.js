@@ -42,7 +42,7 @@ const Slider = () => `
 
         <div
           class="intro-section"
-          style="background-image: url('/public/images/banners/h2-slide1.jpg')"
+          style="background-image: url('/images/banners/h2-slide1.jpg')"
         >
           <div class="container">
             <div class="row align-items-center slider-area">
