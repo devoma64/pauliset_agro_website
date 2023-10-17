@@ -1,4 +1,4 @@
-const Slider = () =>`
+const Slider = () => `
       <div class="hero-slide owl-carousel site-blocks-cover">
         <div class="intro-section" style="background-image: url('/public/images/banners/bg-slider-1.jpg')"
         >
@@ -22,26 +22,18 @@ const Slider = () =>`
 
         <div
           class="intro-section"
-          style="background-image: url('/public/images/banners/bg-slider-ex.jpg')"
+          style="background-image: url('/public/images/banners/okundi-staff-photo.png'); background-size: cover; background-position: center"
         >
           <div class="container">
             <div class="row align-items-center slider-area">
-              <div
-                class="col-lg justify-content-center mx-auto text-center"
-                data-aos="fade-up"
-              >
+              <div class="col-lg justify-content-center mx-auto text-center" data-aos="fade-up">
                 <span class="d-block"></span>
-                <h1 class="header-text slide-2">
-                  WHO WE ARE, <br />AND WHAT WE DO!
-                </h1>
+                <h1 class="header-text slide-2">WHO WE ARE, AND WHAT WE DO!</h1>
                 <p class="description">
                   We are Industrial base Agricultural Company, we farm and trade
-                  agricultural produce!. <br />
-                  Our Meticulous production processes yeild top-grade cocoa
-                  beans, cocoa powder, <br />
-                  cocoa butter, palm oil, and various derivatives. Strengent
-                  qualifty checks are in <br />
-                  place to maintain the highest standards of our offering.
+                  agricultural produce!. Our Meticulous production processes yeild top-grade cocoa
+                  beans, cocoa powder, cocoa butter, palm oil, and various derivatives. Strengent
+                  qualifty checks are in place to maintain the highest standards of our offering.
                 </p>
               </div>
             </div>
@@ -54,18 +46,12 @@ const Slider = () =>`
         >
           <div class="container">
             <div class="row align-items-center slider-area">
-              <div
-                class="col-lg justify-content-center mx-auto text-center"
-                data-aos="fade-up"
-              >
+              <div class="col-lg justify-content-center mx-auto text-center" data-aos="fade-up">
                 <span class="d-block"></span>
-                <h1 class="header-text slide-2">
-                  FRESH FARMS <br />
-                  IDEAS
-                </h1>
+                <h1 class="header-text slide-2"> FRESH FARMS IDEAS </h1>
                 <p class="description">
                   We engaged you on Farm Seminars and Education to enable you
-                  become outstanding in <br />the agriculture industry
+                  become outstanding in the agriculture industry
                 </p>
                 <!-- <h1>Providing Fresh Produce Every Single Day</h1> -->
               </div>
@@ -125,6 +111,6 @@ const Slider = () =>`
         </div>
       </div>
       <!-- END slider -->
-`
+`;
 
 export default Slider;
