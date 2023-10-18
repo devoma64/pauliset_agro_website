@@ -70,13 +70,14 @@ const Slider = () => `
         background-repeat:no-repeat;"
         >
           <div class="container">
-            <div class="row align-items-center">
+            <div class="row align-items-center slider-area">
               <div
                 class="col-lg-7 justify-content-center mx-auto text-center"
                 data-aos="fade-up"
               >
                 <span class="d-block"></span>
-                <h1>Farming as a Passion</h1>
+                <h1 class="header-text ">Farming as a Passion</h1>
+                <p class="description">Farming is not just a livelihood; it's my passion and a way of life that brings me immeasurable joy and fulfillment.</p>
               </div>
             </div>
           </div>
