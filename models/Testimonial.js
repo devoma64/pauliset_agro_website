@@ -12,25 +12,25 @@ const Testimonial = () => `
           <div class="row">
             <div class="col-md-6 mb-4 mb-md-0">
               <div class="testimonial">
-                <img src="images/person_3.jpg" alt="" />
+                <img src="images/gallery/director.png" alt="" />
                 <blockquote>
                   <p>
                     &ldquo;Working and doing business Pauliset Agro Company was the best decision i have ever made as it turns with huge profits&rdquo;
                   </p>
                 </blockquote>
-                <p class="client-name">Brainiac Harmony</p>
+                <p class="client-name">director</p>
               </div>
             </div>
             
             <div class="col-md-6 mb-4 mb-md-0">
               <div class="testimonial">
-                <img src="images/person_4.jpg" alt="" />
+                <img src="images/gallery/director.png" alt="" />
                 <blockquote>
                   <p>
                     &ldquo;Working and doing business Pauliset Agro Company was the best decision i have ever made as it turns with huge profits&rdquo;
                   </p>
                 </blockquote>
-                <p class="client-name">Esin Gift</p>
+                <p class="client-name">director</p>
               </div>
             </div>
           </div>
