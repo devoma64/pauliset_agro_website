@@ -87,22 +87,22 @@ const Nav =  () =>`
                       <a href="index.html" class="nav-link text-left">Home</a>
                     </li>
                     <li>
-                      <a href="views/about.html" class="nav-link text-left"
+                      <a href="about.html" class="nav-link text-left"
                         >About Us</a
                       >
                     </li>
                     <li>
-                      <a href="views/services.html" class="nav-link text-left"
+                      <a href="services.html" class="nav-link text-left"
                         >Our Services</a
                       >
                     </li>
                     <li>
-                      <a href="views/testimonials.html" class="nav-link text-left"
+                      <a href="testimonials.html" class="nav-link text-left"
                         >Testimonials</a
                       >
                     </li>
                     <li>
-                      <a href="views/contact.html" class="nav-link text-left"
+                      <a href="contact.html" class="nav-link text-left"
                         >Contact</a
                       >
                     </li>
