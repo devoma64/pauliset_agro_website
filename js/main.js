@@ -338,3 +338,8 @@ jQuery(document).ready(function($) {
 	});
 
 });
+
+// CUSTOM js
+
+// contact form validation
+

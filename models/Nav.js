@@ -1,4 +1,4 @@
-const Nav =  () =>`
+const Nav = () => `
 
    <div data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
      <div class="site-wrap">
@@ -103,10 +103,21 @@ const Nav =  () =>`
                     </li>
                     <li>
                       <a href="contact.html" class="nav-link text-left"
-                        >Contact</a
+                        >Contact Us</a
                       >
                     </li>
-                  </ul>
+
+                    <li> 
+                        
+                    </li>
+                     <li>
+                       <a href="become_a_factor.html" class="nav-link btn btn-sm btn-light" 
+                       style="color: var(--bs-success); 
+                       text-transform: capitalize; 
+                       font-weight: bold;">
+                          Become a factor</a>
+                     </li>
+                
                 </nav>
               </div>
             </div>
