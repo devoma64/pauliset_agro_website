@@ -94,7 +94,7 @@ const About = () => `
               <h5 class="text-primary mb-2 text-black about-sub-title">
                 Your satisfaction is our target
               </h5>
-              <p class="mb-4 about-description">
+              <p class="mb-4 about-description" style="font-size: 15px; font-family: arial">
                 Pauliset & Son's Global Ltd., take pride in being an outstanding
                 agro company specialize in the cultivation, production, buying,
                 and selling of high-quality cocoa bean and palm oil products.

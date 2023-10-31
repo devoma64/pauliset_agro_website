@@ -6,7 +6,7 @@ const WhyChooseUs = () => `
             <div class="row">
               <div class="col-lg-6 mb-4 mb-lg-0">
                 <img
-                  src="images/products/cocoa-farm-1.jpg"
+                  src="images/gallery/director_pauliset_cocoa.jpeg"
                   alt="Image "
                   class="img-fluid img-overlap"
                 />

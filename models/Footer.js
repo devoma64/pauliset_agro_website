@@ -19,8 +19,8 @@ const Footer = () => `
             <div class="col-lg-3">
               <h3 class="footer-heading"><span>Our Company</span></h3>
               <ul class="list-unstyled">
-                <li><a href="views/about.html">About</a></li>
-                <li><a href="views/services.html">Services</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
                 <li><a href="">Our Team</a></li>
                 <li><a href="#">Careers</a></li>
                 <li><a href="#">Projects</a></li>
@@ -56,13 +56,17 @@ const Footer = () => `
                   <script>
                     document.write(new Date().getFullYear());
                   </script>
-                  . All Rights Reserved. &mdash; Designed with love by
-                  <a href="https://untree.co">TheGenuses</a>
+
+                 <!-- . All Rights Reserved. &mdash; -->
+
+
+                Pauliset Agro Company 2023.
                  
                 </p>
               </div>
             </div>
           </div>
+          
         </div>
       </div>
     </div>

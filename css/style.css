@@ -2026,3 +2026,10 @@ h1, h2, h3, h4, h5,
   }
   
 }
+
+/* custom error class for contact form */
+
+.error {
+  font-size: 14.5px;
+  margin-top: 5px;
+}

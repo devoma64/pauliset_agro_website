@@ -36,7 +36,7 @@ const Service = () => `
                         A new profitable way to sell and invest your farm
                         produce COCOA AND PALM OIL
                       </h2>
-                      <p>
+                      <p style="font-size: 15px;">
                         Our strong supply chain enables us to purchase cocoa and
                         palm oil from our farms and local farmers, promoting
                         fair trade practices and empowering rural communities.
@@ -55,8 +55,7 @@ const Service = () => `
                 </div>
                 <div class="col-md-5 order-lg-1">
                   <div class="left-contents">
-                
-                    <h2>
+                    <h2 style="color:var(--bs-success)">
                       We provide you with the best platform to sell your farm
                       produce
                     </h2>
@@ -66,18 +65,21 @@ const Service = () => `
             </div>
           </div>
 
-          <div class="row no-gutters">
+           <div class="row no-gutters">
             <div class="col-lg-3 col-md-6">
               <div class="service-1">
                 <span class="number">01</span>
                 <div class="service-1-icon">
-                  <img src="images/icon-1.png" alt="Image" class="img-fluid" />
+                  <img
+                    src="images/icon-1.png"
+                    alt="Image"
+                    class="img-fluid"
+                  />
                 </div>
                 <div class="service-1-content">
-                  <h3 class="service-heading">Planting</h3>
+                  <h3 class="service-heading">Planting of Cocoa</h3>
                   <p>
-                    Gravida sodales condimentum pellen tesq accumsan orci quam
-                    sagittis sapie
+                    We engage in the planting of cocoa and other crops, ensuring the successful establishment and growth of agricultural produce.
                   </p>
                 </div>
               </div>
@@ -86,13 +88,16 @@ const Service = () => `
               <div class="service-1">
                 <span class="number">02</span>
                 <div class="service-1-icon">
-                  <img src="images/icon-2.png" alt="Image" class="img-fluid" />
+                  <img
+                    src="images/icon-2.png"
+                    alt="Image"
+                    class="img-fluid"
+                  />
                 </div>
                 <div class="service-1-content">
                   <h3 class="service-heading">Mulching</h3>
                   <p>
-                    Gravida sodales condimentum pellen tesq accumsan orci quam
-                    sagittis sapie
+                   We employs mulching techniques to improve soil health, conserve moisture, and suppress weed growth in their agricultural operations.
                   </p>
                 </div>
               </div>
@@ -101,44 +106,36 @@ const Service = () => `
               <div class="service-1">
                 <span class="number">03</span>
                 <div class="service-1-icon">
-                  <img src="images/icon-3.png" alt="Image" class="img-fluid" />
+                  <img
+                    src="images/icon-3.png"
+                    alt="Image"
+                    class="img-fluid"
+                  />
                 </div>
                 <div class="service-1-content">
                   <h3 class="service-heading">Plowing</h3>
                   <p>
-                    Gravida sodales condimentum pellen tesq accumsan orci quam
-                    sagittis sapie
+                   Pauliset Agro Company utilizes plowing to cultivate and prepare the soil for planting crops, ensuring optimal conditions for growth.
                   </p>
                 </div>
               </div>
             </div>
-            <div class="col-lg-3 col-md-6">
-              <div class="service-1">
-                <span class="number">04</span>
-                <div class="service-1-icon">
-                  <img src="images/icon-4.png" alt="Image" class="img-fluid" />
-                </div>
-                <div class="service-1-content">
-                  <h3 class="service-heading">Mowing</h3>
-                  <p>
-                    Gravida sodales condimentum pellen tesq accumsan orci quam
-                    sagittis sapie
-                  </p>
-                </div>
-              </div>
-            </div>
+     
 
             <div class="col-lg-3 col-md-6">
               <div class="service-1">
                 <span class="number">05</span>
                 <div class="service-1-icon">
-                  <img src="images/icon-5.png" alt="Image" class="img-fluid" />
+                  <img
+                    src="images/icon-5.png"
+                    alt="Image"
+                    class="img-fluid"
+                  />
                 </div>
                 <div class="service-1-content">
                   <h3 class="service-heading">Seeding</h3>
                   <p>
-                    Gravida sodales condimentum pellen tesq accumsan orci quam
-                    sagittis sapie
+                    We provides you with quality cocoa and palm seedling
                   </p>
                 </div>
               </div>
@@ -148,6 +145,6 @@ const Service = () => `
       </div>
       <!-- END services -->
 
-`
+`;
 
 export default Service;

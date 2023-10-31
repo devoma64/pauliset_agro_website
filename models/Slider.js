@@ -72,12 +72,14 @@ const Slider = () => `
           <div class="container">
             <div class="row align-items-center slider-area">
               <div
-                class="col-lg-7 justify-content-center mx-auto text-center"
+                class="col-lg justify-content-center mx-auto text-center"
                 data-aos="fade-up"
               >
                 <span class="d-block"></span>
                 <h1 class="header-text ">Farming as a Passion</h1>
-                <p class="description">Farming is not just a livelihood; it's my passion and a way of life that brings me immeasurable joy and fulfillment.</p>
+                <p class="description">
+                  Farming is not just a livelihood; it's our passion and a way of life that brings us immeasurable joy and fulfillment, <br> here in Pauliset Agro Company.
+                  </p>
               </div>
             </div>
           </div>
