@@ -12,30 +12,30 @@ const Testimonial = () => `
           <div class="row">
             <div class="col-md-6 mb-4 mb-md-0">
               <div class="testimonial">
-                <img src="images/gallery/director.png" alt="" />
+                <img src="images/gallery/marvelous_won.jpeg" alt="" />
                 <blockquote>
                   <p>
                     &ldquo;Working and doing business Pauliset Agro Company was the best decision i have ever made as it turns with huge profits&rdquo;
                   </p>
                 </blockquote>
-                <p class="client-name">director</p>
+                <p class="client-name">Marvelous Odu</p>
               </div>
             </div>
             
             <div class="col-md-6 mb-4 mb-md-0">
               <div class="testimonial">
-                <img src="images/gallery/director.png" alt="" />
+                <img src="images/gallery/marvelous_won.jpeg alt="" />
                 <blockquote>
                   <p>
-                    &ldquo;Working and doing business Pauliset Agro Company was the best decision i have ever made as it turns with huge profits&rdquo;
+                    &ldquo;Working and doing business Pauliset Agro Company was the best decision i have ever made as it turns out with huge profits&rdquo;
                   </p>
                 </blockquote>
-                <p class="client-name">director</p>
+                <p class="client-name">Marvelous Odu</p>
               </div>
             </div>
           </div>
         </div>
       </div>
       </div>
-`
+`;
 export default Testimonial;

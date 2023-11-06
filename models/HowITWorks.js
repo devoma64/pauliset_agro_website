@@ -13,9 +13,8 @@ const HowITWorks = () => {
             <div class="col-lg-6 order-lg-2 mb-4 mb-lg-0">
               <a
                 data-fancybox
-                href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
-                class="video-1">
-                <span class="play"><span class="icon-play"></span></span>
+                href="">
+              
                 <img src="images/products/cocoa-bean.jpg" alt="Image" class="img-fluid" />
               </a>
             </div>
